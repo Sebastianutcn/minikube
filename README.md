@@ -7,4 +7,4 @@ Commands for exposing to the internet:
 1. minikube start
 2. kubectl apply -f deployment.yml
 3. kubectl apply -f service.yml
-4. minikube service mytodoapp-service
+4. minikube service mytodoapp-service 
